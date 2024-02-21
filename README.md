@@ -2,7 +2,7 @@
 A simple template for sdl games using C++ and cmake
 
 ## HOW 2 USE
-* run these commands 
+* run these commands or `setup.sh`
     ```bash
     git submodule init && git submodule update # Get and update submodules (SDL)
     mkdir build && cd build # Make and cd into the directory
